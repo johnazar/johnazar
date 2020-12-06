@@ -16,19 +16,13 @@
     <tbody>
       <tr>
         <td align = "center">
-          <img src = "src/cpp.png" width ="35px" height="35px">
-          <img src = "src/java.png" width ="35px" height="35px">
-          <img src = "src/python.png" width ="35px" height="35px">
-          <img src = "src/C-Sharp.png" width ="35px" height="35px">
+          <img src = "src/php.png" width ="35px" height="35px">
+          <img src = "src/js.png" width ="35px" height="35px">
         </td>
         <td  align = "center">
-          <img src = "src/mongodb.png" width ="35px" height="35px">
+          <img src = "src/mysql.png" width ="35px" height="35px">
         </td>
         <td  align = "center">
-          <img src = "src/springboot.png" width ="35px" height="35px">
-          <img src = "src/express.png" width ="35px" height="35px">
-          <img src = "src/vuejs.png" width ="35px" height="35px">
-          <img src = "src/react.png" width ="35px" height="35px">
           <img src = "src/nodejs.png" width ="35px" height="35px">
         </td>
         <td align = "center">
@@ -49,23 +43,18 @@
     <tbody>
       <tr>
         <td align = "center">
-          <img src = "src/intellij.png" width ="35px" height="35px">
-          <img src = "src/pycharm.png" width ="35px" height="35px">
-          <img src = "src/vscode.svg" width ="35px" height="35px">
+          <img src = "src/vs.png" width ="35px" height="35px">
         </td>
         <td align = "center">
-          <img src = "src/sublime.png" width ="35px" height="35px">
+          <img src = "src/vscode.png" width ="35px" height="35px">
           <img src = "src/brackets.png" width ="35px" height="35px">
-          <img src = "src/vim.png" width ="35px" height="35px">
           <img src = "src/atom.png" width ="35px" height="35px">
         </td>
         <td  align = "center">
           <img src = "src/git.png" width ="35px" height="35px">
           <img src = "src/terminal.png" width ="35px" height="35px">
-          <img src = "src/typescript.png" width ="35px" height="35px">
         </td>
         <td  align = "center">
-          <img src = "src/kubernetes.png" width ="40px" height="36px">
           <img src = "src/docker.png" width ="40px" height="36px">
         </td>
       </tr>
