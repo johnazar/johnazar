@@ -41,10 +41,10 @@
     <tbody>
       <tr>
         <td align = "center">
-          <img src = "src/vs.png" width ="35px" height="35px">
+          <img src = "src/vscode.svg" width ="35px" height="35px">
         </td>
         <td align = "center">
-          <img src = "src/vscode.png" width ="35px" height="35px">
+          <img src = "src/vscode.svg" width ="35px" height="35px">
           <img src = "src/brackets.png" width ="35px" height="35px">
           <img src = "src/atom.png" width ="35px" height="35px">
         </td>
