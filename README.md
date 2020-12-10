@@ -1,8 +1,14 @@
+<style>
+.center {
+  text-align: center;
+  border: 3px solid green;
+}
+</style>
 <div>
 
 # 💻 Hey There, I am John 💻
 
-  <table>
+  <table class="center">
     <thead>
     <tr>
       <th>Languages</th>
@@ -60,6 +66,7 @@
     </tbody>
   </table>
 <div>
+
 
 
 
