@@ -30,7 +30,6 @@
           <img src = "src/img/jquery.jpg" width ="35px" height="35px">
           <img src = "src/img/bootstrap.png" width ="35px" height="35px">
         </td>
-
       </tr>
     </tbody>
     <thead>
