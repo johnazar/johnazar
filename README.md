@@ -64,10 +64,12 @@
 
 <!-- If you forked this repo, Change the username as yours -->
 <a href="https://github.com/johnazar/johnazar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnazar&show_icons=true&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnazar&show_icons=true"/>
+
+  [![johnazar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnazar)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/johnazar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnazar&hide=typescript,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnazar&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 
 
