@@ -14,20 +14,20 @@
     <tbody>
       <tr>
         <td>
-          <img src = "src/img/php.png" width ="35px" height="100%">
-          <img src = "src/img/js.png" width ="35px" height="100%">
+          <img src = "src/img/php.png" width ="35px" height="10%">
+          <img src = "src/img/js.png" width ="35px" height="10%">
         </td>
         <td >
-          <img src = "src/img/mysql.png" width ="35px" height="100%">
-          <img src = "src/img/sqlite.png" width ="35px" height="100%">
+          <img src = "src/img/mysql.png" width ="35px" height="10%">
+          <img src = "src/img/sqlite.png" width ="35px" height="10%">
         </td>
         <td>
-          <img src = "src/img/nodejs.png" width ="35px" height="100%">
+          <img src = "src/img/nodejs.png" width ="35px" height="10%">
         </td>
         <td>
-          <img src = "src/img/html.png" width ="35px" height="100%">
-          <img src = "src/img/css.png" width ="35px" height="100%">
-          <img src = "src/img/javascript.png" width ="35px" height="100%">
+          <img src = "src/img/html.png" width ="35px" height="10%">
+          <img src = "src/img/css.png" width ="35px" height="10%">
+          <img src = "src/img/javascript.png" width ="35px" height="10%">
         </td>
       </tr>
     </tbody>
@@ -42,19 +42,19 @@
     <tbody>
       <tr>
         <td>
-          <img src = "src/img/vscode.svg" width ="35px" height="100%">
+          <img src = "src/img/vscode.svg" width ="35px" height="10%">
         </td>
         <td>
-          <img src = "src/img/vscode.svg" width ="35px" height="100%">
-          <img src = "src/img/brackets.png" width ="35px" height="100%">
-          <img src = "src/img/atom.png" width ="35px" height="100%">
+          <img src = "src/img/vscode.svg" width ="35px" height="10%">
+          <img src = "src/img/brackets.png" width ="35px" height="10%">
+          <img src = "src/img/atom.png" width ="35px" height="10%">
         </td>
         <td >
-          <img src = "src/img/git.png" width ="35px" height="100%">
-          <img src = "src/img/terminal.png" width ="35px" height="100%">
+          <img src = "src/img/git.png" width ="35px" height="10%">
+          <img src = "src/img/terminal.png" width ="35px" height="10%">
         </td>
         <td >
-          <img src = "src/img/docker.png" width ="40px" height="100%">
+          <img src = "src/img/docker.png" width ="40px" height="10%">
         </td>
       </tr>
     </tbody>
