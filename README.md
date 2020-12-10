@@ -64,7 +64,7 @@
 
 <!-- If you forked this repo, Change the username as yours -->
 <a href="https://github.com/johnazar/johnazar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnazar&show_icons=true"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnazar&show_icons=true?hide=stars&count_private=true"/></a>
 
 
 
