@@ -1,8 +1,8 @@
-<div align = "center">
+<div>
 
 # 💻 Hey There, I am John 💻
 
-  <table align ="center">
+  <table>
     <thead>
     <tr>
       <th>Languages</th>
@@ -13,52 +13,53 @@
     </thead>
     <tbody>
       <tr>
-        <td align = "center">
-          <img src = "src/php.png" width ="35px" height="35px">
-          <img src = "src/js.png" width ="35px" height="35px">
+        <td>
+          <img src = "src/img/php.png" width ="35px" height="100%">
+          <img src = "src/img/js.png" width ="35px" height="100%">
         </td>
-        <td  align = "center">
-          <img src = "src/mysql.png" width ="35px" height="35px">
+        <td >
+          <img src = "src/img/mysql.png" width ="35px" height="100%">
+          <img src = "src/img/sqlite.png" width ="35px" height="100%">
         </td>
-        <td  align = "center">
-          <img src = "src/nodejs.png" width ="35px" height="35px">
+        <td>
+          <img src = "src/img/nodejs.png" width ="35px" height="100%">
         </td>
-        <td align = "center">
-          <img src = "src/html.png" width ="35px" height="35px">
-          <img src = "src/css.png" width ="35px" height="35px">
-          <img src = "src/javascript.png" width ="35px" height="35px">
+        <td>
+          <img src = "src/img/html.png" width ="35px" height="100%">
+          <img src = "src/img/css.png" width ="35px" height="100%">
+          <img src = "src/img/javascript.png" width ="35px" height="100%">
         </td>
       </tr>
     </tbody>
     <thead>
     <tr>
       <th>IDEs</th>
-      <th>Text Editors</th>
+      <th>Editors</th>
       <th>Tools</th>
       <th>Misc.</th>
     </tr>
     </thead>
     <tbody>
       <tr>
-        <td align = "center">
-          <img src = "src/vscode.svg" width ="35px" height="35px">
+        <td>
+          <img src = "src/img/vscode.svg" width ="35px" height="100%">
         </td>
-        <td align = "center">
-          <img src = "src/vscode.svg" width ="35px" height="35px">
-          <img src = "src/brackets.png" width ="35px" height="35px">
-          <img src = "src/atom.png" width ="35px" height="35px">
+        <td>
+          <img src = "src/img/vscode.svg" width ="35px" height="100%">
+          <img src = "src/img/brackets.png" width ="35px" height="100%">
+          <img src = "src/img/atom.png" width ="35px" height="100%">
         </td>
-        <td  align = "center">
-          <img src = "src/git.png" width ="35px" height="35px">
-          <img src = "src/terminal.png" width ="35px" height="35px">
+        <td >
+          <img src = "src/img/git.png" width ="35px" height="100%">
+          <img src = "src/img/terminal.png" width ="35px" height="100%">
         </td>
-        <td  align = "center">
-          <img src = "src/docker.png" width ="40px" height="36px">
+        <td >
+          <img src = "src/img/docker.png" width ="40px" height="100%">
         </td>
       </tr>
     </tbody>
   </table>
-<div align = "center">
+<div>
 
 
 
