@@ -34,8 +34,8 @@
     </tbody>
     <thead>
     <tr>
-      <th>IDEs</th>
-      <th>Editors</th>
+      <th>WEB FRAMEWORK</th>
+      <th>IDE & Editors</th>
       <th>Tools</th>
       <th>Misc.</th>
     </tr>
@@ -43,19 +43,18 @@
     <tbody>
       <tr>
         <td>
-          <img src = "src/img/vscode.svg" width ="35px" height="35px">
+          <img src = "src/img/laravel.png" width ="35px" height="35px">
+          <img src = "src/img/adonis.jpeg" width ="35px" height="35px">
         </td>
         <td>
-          <img src = "src/img/vscode.svg" width ="35px" height="35px">
-          <img src = "src/img/brackets.png" width ="35px" height="35px">
-          <img src = "src/img/atom.png" width ="35px" height="35px">
+          <img src = "src/img/vscode.png" width ="35px" height="35px">
         </td>
         <td >
           <img src = "src/img/git.png" width ="35px" height="35px">
           <img src = "src/img/terminal.png" width ="35px" height="35px">
         </td>
         <td >
-          <img src = "src/img/docker.png" width ="40px" height="35px">
+          <img src = "src/img/wordpress.png" width ="40px" height="35px">
         </td>
       </tr>
     </tbody>
