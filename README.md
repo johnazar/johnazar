@@ -1,14 +1,8 @@
-<style>
-.center {
-  text-align: center;
-  border: 3px solid green;
-}
-</style>
 <div>
 
 # 💻 Hey There, I am John 💻
 
-  <table class="center">
+  <table aligne="center">
     <thead>
     <tr>
       <th>Languages</th>
