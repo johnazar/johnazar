@@ -5,30 +5,32 @@
   <table align="center">
     <thead>
     <tr>
-      <th>Languages</th>
-      <th>Databases</th>
-      <th>Frameworks</th>
-      <th>Web</th>
+      <th>WEB DEVELOPMENT</th>
+      <th>DATABASE</th>
+      <th>SERVER SCRIPTING</th>
+      <th>CSS/JS FRAMEWORK</th>
     </tr>
     </thead>
     <tbody>
       <tr>
         <td>
-          <img src = "src/img/php.png" width ="35px" height="35px">
-          <img src = "src/img/js.png" width ="35px" height="35px">
+        <img src = "src/img/html.png" width ="35px" height="35px">
+          <img src = "src/img/css.png" width ="35px" height="35px">
+          <img src = "src/img/javascript.png" width ="35px" height="35px">
         </td>
         <td >
           <img src = "src/img/mysql.png" width ="35px" height="35px">
           <img src = "src/img/sqlite.png" width ="35px" height="35px">
         </td>
         <td>
+          <img src = "src/img/php.png" width ="35px" height="35px">
           <img src = "src/img/nodejs.png" width ="35px" height="35px">
         </td>
         <td>
-          <img src = "src/img/html.png" width ="35px" height="35px">
-          <img src = "src/img/css.png" width ="35px" height="35px">
-          <img src = "src/img/javascript.png" width ="35px" height="35px">
+          <img src = "src/img/jquery.jpg" width ="35px" height="35px">
+          <img src = "src/img/bootstrap.png" width ="35px" height="35px">
         </td>
+
       </tr>
     </tbody>
     <thead>
