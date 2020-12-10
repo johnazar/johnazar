@@ -14,21 +14,21 @@
     <tbody>
       <tr>
         <td>
-        <img src = "src/img/html.png" width ="35px" height="35px">
-          <img src = "src/img/css.png" width ="35px" height="35px">
-          <img src = "src/img/javascript.png" width ="35px" height="35px">
+        <img src = "src/img/html.png" width ="45px" height="45px">
+          <img src = "src/img/css.png" width ="45px" height="45px">
+          <img src = "src/img/javascript.png" width ="45px" height="45px">
         </td>
         <td >
-          <img src = "src/img/mysql.png" width ="35px" height="35px">
-          <img src = "src/img/sqlite.png" width ="35px" height="35px">
+          <img src = "src/img/mysql.png" width ="45px" height="45px">
+          <img src = "src/img/sqlite.png" width ="45px" height="45px">
         </td>
         <td>
-          <img src = "src/img/php.png" width ="35px" height="35px">
-          <img src = "src/img/nodejs.png" width ="35px" height="35px">
+          <img src = "src/img/php.png" width ="45px" height="45px">
+          <img src = "src/img/nodejs.png" width ="45px" height="45px">
         </td>
         <td>
-          <img src = "src/img/jquery.jpg" width ="35px" height="35px">
-          <img src = "src/img/bootstrap.png" width ="35px" height="35px">
+          <img src = "src/img/jquery.jpg" width ="45px" height="45px">
+          <img src = "src/img/bootstrap.png" width ="45px" height="45px">
         </td>
       </tr>
     </tbody>
@@ -43,18 +43,18 @@
     <tbody>
       <tr>
         <td>
-          <img src = "src/img/laravel.png" width ="35px" height="35px">
-          <img src = "src/img/adonis.jpeg" width ="35px" height="35px">
+          <img src = "src/img/laravel.png" width ="45px" height="45px">
+          <img src = "src/img/adonis.jpeg" width ="45px" height="45px">
         </td>
         <td>
-          <img src = "src/img/vscode.png" width ="35px" height="35px">
+          <img src = "src/img/vscode.png" width ="45px" height="45px">
         </td>
         <td >
-          <img src = "src/img/git.png" width ="35px" height="35px">
-          <img src = "src/img/terminal.png" width ="35px" height="35px">
+          <img src = "src/img/git.png" width ="45px" height="45px">
+          <img src = "src/img/terminal.png" width ="45px" height="45px">
         </td>
         <td >
-          <img src = "src/img/wordpress.png" width ="40px" height="35px">
+          <img src = "src/img/wordpress.png" width ="45px" height="45px">
         </td>
       </tr>
     </tbody>
