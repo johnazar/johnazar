@@ -2,7 +2,7 @@
 
 # 💻 Hey There, I am John 💻
 
-  <table aligne="center">
+  <table align="center">
     <thead>
     <tr>
       <th>Languages</th>
