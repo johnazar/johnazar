@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi There, I am John 👩‍💻
+# Hi There, I am John :technologist:
 
   <table align="center">
     <thead>
