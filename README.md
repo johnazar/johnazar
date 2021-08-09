@@ -28,6 +28,7 @@
         </td>
         <td>
           <img src = "src/img/jquery.jpg" width ="45px" height="45px">
+          <img src = "src/img/vuejs.png" width ="45px" height="45px">
           <img src = "src/img/bootstrap.png" width ="45px" height="45px">
         </td>
       </tr>
