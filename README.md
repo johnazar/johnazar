@@ -44,8 +44,6 @@
       <tr>
         <td>
           <img src = "src/img/laravel.png" width ="45px" height="45px">
-          <img src = "src/img/adonis.jpeg" width ="45px" height="45px">
-          <img src = "src/img/ionic.png" width ="45px" height="45px">
         </td>
         <td>
           <img src = "src/img/vscode.png" width ="45px" height="45px">
