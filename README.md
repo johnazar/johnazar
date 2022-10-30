@@ -7,7 +7,7 @@
     <tr>
       <th>WEB DEVELOPMENT</th>
       <th>DATABASE</th>
-      <th>SERVER SCRIPTING</th>
+      <th>SERVER</th>
       <th>CSS/JS FRAMEWORK</th>
     </tr>
     </thead>
@@ -20,6 +20,7 @@
         </td>
         <td >
           <img src = "src/img/mysql.png" width ="45px" height="45px">
+          <img src = "src/img/postgresql.png" width ="45px" height="45px">
           <img src = "src/img/sqlite.png" width ="45px" height="45px">
         </td>
         <td>
@@ -27,9 +28,9 @@
           <img src = "src/img/nodejs.png" width ="45px" height="45px">
         </td>
         <td>
-          <img src = "src/img/jquery.jpg" width ="45px" height="45px">
+          <img src = "src/img/nuxt.png" width ="45px" height="45px">
           <img src = "src/img/vuejs.png" width ="45px" height="45px">
-          <img src = "src/img/bootstrap.png" width ="45px" height="45px">
+          <img src = "src/img/vuetify.png" width ="45px" height="45px">
         </td>
       </tr>
     </tbody>
@@ -51,10 +52,12 @@
         </td>
         <td >
           <img src = "src/img/git.png" width ="45px" height="45px">
+          <img src = "src/img/insomnia.png" width ="45px" height="45px">
           <img src = "src/img/terminal.png" width ="45px" height="45px">
         </td>
         <td >
           <img src = "src/img/wordpress.png" width ="45px" height="45px">
+          <img src = "src/img/docker.png" width ="45px" height="45px">
         </td>
       </tr>
     </tbody>
