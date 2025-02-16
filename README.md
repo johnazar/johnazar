@@ -31,6 +31,7 @@
           <img src = "src/img/nuxt.png" width ="45px" height="45px">
           <img src = "src/img/vuejs.png" width ="45px" height="45px">
           <img src = "src/img/vuetify.png" width ="45px" height="45px">
+          <img src = "src/img/taiwindcss.png" width ="45px" height="45px">
         </td>
       </tr>
     </tbody>
