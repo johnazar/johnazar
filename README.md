@@ -59,6 +59,7 @@
         <td >
           <img src = "src/img/wordpress.png" width ="45px" height="45px">
           <img src = "src/img/docker.png" width ="45px" height="45px">
+          <img src = "src/img/pm2.png" width ="45px" height="45px">
         </td>
       </tr>
     </tbody>
